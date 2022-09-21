@@ -11,7 +11,7 @@ export const navLinks = [
   },
   {
     title: "GitHub",
-    link: "https://https://github.com/SpikaApp",
+    link: "https://github.com/SpikaApp",
   },
   {
     title: "Twitter",

@@ -43,10 +43,9 @@ const Hero = () => {
           alt="wallet"
           sx={{
             position: "relative",
-            borderRadius: "14px",
+            borderRadius: "12px",
             width: "340px",
             height: "525px",
-            borderRadius: "12px",
             zIndex: 5,
           }}
         ></Box>

@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import logo400 from "./logo_400_nb.png";
-import logoSvg from "./logo_400_svg.png";
+import logoSvg from "./logo_400_nb.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import twitter from "./twitter.svg";

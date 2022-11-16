@@ -1,10 +1,4 @@
-import { twitter } from "../assets";
-
 export const navLinks = [
-  {
-    title: "Home",
-    link: "https://spika.app",
-  },
   {
     title: "Docs",
     link: "https://docs.spika.app",

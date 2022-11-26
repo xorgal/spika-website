@@ -14,7 +14,7 @@ const Hero = () => {
           </h1>
         </div>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-          Manage digital assets and access decentralized applications on Aptos blockchain
+          Manage digital assets and access decentralized applications on the Aptos blockchain
         </p>
         <Button
           component={Link}

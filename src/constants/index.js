@@ -1,4 +1,4 @@
-import roadmap from "../assets/roadmap.png";
+import roadmap from "../assets/roadmap.pdf";
 
 export const navLinks = [
   {
